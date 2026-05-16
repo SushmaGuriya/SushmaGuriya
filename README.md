@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am sushma guriya<br>B.tech CSE | Final year student at Jharkhand University of Technology Ranchi ||<br>Skills..<br>C ,C++, Html ,CSS Python ,javascript,Django, Bootsrap. 
+I am sushma guriya<br>B.tech CSE | Final year student at Jharkhand University of Technology Ranchi ||<br>Skills..<br>C ,C++, Html ,CSS Python ,javascript,Django, Bootstrap. 
 
 
 ## 🌐 Socials:
